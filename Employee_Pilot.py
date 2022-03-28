@@ -6,7 +6,7 @@ from PIL import Image
 
 
 # Data needed for the app
-data_stage = pd.read_csv('C:/Users/jefft/OneDrive/Documents/Python Scripts/Streamlit/Employee_Data.csv')
+data_stage = pd.read_csv('C:/Users/jefft/OneDrive/Documents/Python Scripts/Streamlit/Employee_Example_Data.csv')
 data = pd.DataFrame(data_stage)
 
 # Main body of the application.
@@ -15,9 +15,9 @@ st.subheader('Find Health Catalyst team members in your area to connect with.')
 
 
 # Filters on the left.
-image = Image.open('C:/Users/jefft/OneDrive/Documents/Python Scripts/Streamlit/HealthCatalyst_Logo.jpg')
+image = Image.open('C:/Users/jefft/OneDrive/Documents/Python Scripts/Streamlit/Company_Logo.jpg')
 #st.sidebar.image(image,width=100)
-st.sidebar.header('Health Catalyst')
+st.sidebar.header('Company')
 st.sidebar.text('Filters')
 
 # Variables.
