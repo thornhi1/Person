@@ -1,0 +1,16 @@
+Team Member ID,Last Name,First Name,Business Title,Cost Center, Email,State,Home Zip Code,Location,RemoteFLG,latitude,longitude,Full Name
+1,aa,z,Data Engineer,Engineering,aa.z@company.com,ID,83713,US Remote,1,43.638314,-116.33059,aa z
+2,bb,y,Analytics Director,Consulting,bb.y@company.com,ID,83713,US Remote,1,43.638314,-116.33059,bb y
+3,cc,x,Data Engineer,Engineering,cc.x@company.com,ID,83402,US Remote,1,43.497685,-112.07391,cc x
+4,dd,w,Technical Director,Engineering,dd.w@company.com,UT,84106,US Remote,1,40.706246,-111.85657,dd w
+5,ee,v,Analytics Engineer,Consulting,ee.v@company.com,UT,84116,US SLC Headquarters,0,40.790309,-111.94018,ee v
+6,ff,u,Controller,Accounting & Finance,ff.u@company.com,UT,84107,US SLC Headquarters,0,40.659997,-111.88394,ff u
+7,gg,t,Financial Planning,Accounting & Finance,gg.t@company.com,TX,76226,US Remote,1,33.105309,-97.16294,gg t
+8,hh,s,Analytics Engineer,Consulting,hh.s@company.com,UT,84606,US SLC Headquarters,0,40.226302,-111.64439,hh s
+9,ii,r,Clinical Informaticist,Life Sciences,ii.r@company.com,FL,33706,US Remote,1,27.741505,-82.75179,ii r
+10,jj,q,"Sales, VP",Sales Operations,jj.q@company.com,OH,43004,US Columbus,0,39.998073,-82.8052,jj q
+11,kk,o,Financial Planning,Accounting & Finance,kk.o@company.com,OH,43004,US Columbus,0,39.998073,-82.8052,kk o
+12,ll,n,Analytics Engineer,Consulting,ll.n@company.com,GA,30076,US Alpharetta,0,34.032532,-84.31774,ll n
+13,mm,m,Sales,Sales Operations,mm.m@company.com,AZ,85018,US Remote,1,33.498076,-111.98603,mm m
+14,nn,l,Analytics Engineer,Consulting,nn.l@company.com,TX,76108,US Remote,1,32.762563,-97.48079,nn l
+15,oo,k,Administrative Assistant,Admin,oo.k@company.com,GA,30041,US Alpharetta,0,34.201503,-84.09764,oo k
